@@ -1,0 +1,12 @@
+python-dotenv 
+openai
+faiss-cpu
+numpy
+PyMuPDF
+fastapi 
+uvicorn
+nltk
+langchain_openai
+langchain-community
+langchain
+faiss-cpu
