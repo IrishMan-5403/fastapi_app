@@ -1,0 +1,43 @@
+# Virtual environments
+venv
+.venv
+
+# Python bytecode
+__pycache__
+*.pyc
+*.pyo
+
+# Environment and configuration files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Version control system files
+.git
+.gitignore
+.hg
+.svn
+
+# Editor and IDE configurations
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info
+*.eggs
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+#to ignore the files saved
+path/
